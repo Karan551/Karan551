@@ -12,8 +12,8 @@ I'm a passionate Python developer with expertise in web development using Django
 
 ## Projects
 Here are some of the projects I've worked on:
-- **[Project Name](Link to Project)**: Brief description of the project. Technologies used: HTML, CSS.
-- **[Project Name](Link to Project)**: Brief description of the project. Technologies used: HTML, CSS
+- **[Recipe Project] [Link to Project](https://github.com/Karan551/recipie_project))**: Brief description of the project. Technologies used: HTML, CSS
+- **[Social Profile Card] [Link to Project](https://github.com/Karan551/Social_profile_card)**: Brief description of the project. Technologies used: HTML, CSS.
 
 
  
